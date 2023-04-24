@@ -8,6 +8,8 @@ public interface Animal extends Color {
 
     /**
      * 种族
+     *
+     * @return
      * @Author: HaiQing.Yu
      * @Date: 2023-04-20 17:53
      */
@@ -15,6 +17,8 @@ public interface Animal extends Color {
 
     /**
      * 颜色
+     *
+     * @return
      * @Author: HaiQing.Yu
      * @Date: 2023-04-20 17:53
      */
